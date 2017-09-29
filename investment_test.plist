@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.16.103/~hisoka/packages/investment_test.ipa</string>
+                    <string>http://192.168.10.100/~hisoka/packages/investment_test.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>manaowan.investent.test</string>
                 <key>bundle-version</key>
-                <string>4.0.0</string>
+                <string>4.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
